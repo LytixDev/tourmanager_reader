@@ -1,0 +1,190 @@
+Rank,Previous Rank,Player,Position,Team,Price,Shirt points,Shirt count,Sprint points,Sprint count,Climb points,Climb count,Placement points,Placement count,Bought,Sold,Points
+1,1,Julian Alaphilippe,climber,Deceuninck - Quick Step,8.2,0.00,1,0.00,0,18.00,1,441.00,5,3747,450,519.00
+2,2,Benoît Cosnefroy,youth,AG2R La Mondiale,6,0.00,1,36.00,1,252.00,5,20.00,4,5074,1234,488.00
+3,3,Marc Hirschi,youth,Team Sunweb,6.9,0.00,1,0.00,0,24.00,1,352.00,5,1727,482,456.00
+4,4,Mads Pedersen,youth,Trek - Segafredo,6.8,0.00,1,0.00,0,0.00,0,340.00,4,4548,2088,420.00
+5,5,Sam Bennett,sprinter,Deceuninck - Quick Step,11.5,0.00,0,70.00,4,0.00,0,264.00,4,1764,1839,354.00
+6,6,Tadej Pogačar,captain,UAE Team Emirates,9.9,0.00,1,0.00,0,48.00,1,234.00,4,3556,1356,342.00
+7,7,Deceuninck - Quick Step,manager,Deceuninck - Quick Step,11,0.00,0,0.00,0,0.00,0,320.00,4,3306,1362,320.00
+8,8,Alexander Kristoff,sprinter,UAE Team Emirates,8,0.00,1,56.00,4,0.00,0,220.00,4,3972,1670,316.00
+8,8,Anthony Perez,support,Cofidis -  Solutions Crédits,3.5,0.00,0,40.00,1,264.00,4,12.00,2,1866,1815,316.00
+10,10,Peter Sagan,sprinter,BORA - Hansgrohe,11,0.00,1,102.00,4,0.00,0,164.00,4,3514,3503,306.00
+11,11,Primož Roglič,captain,Team Jumbo - Visma,11.5,0.00,0,0.00,0,60.00,1,216.00,4,2901,2521,276.00
+12,12,UAE Team Emirates,manager,UAE Team Emirates,8.3,0.00,0,0.00,0,0.00,0,260.00,2,1497,678,260.00
+13,13,Jérôme Cousin,support,Team Total Direct Energie,3.5,0.00,0,80.00,1,36.00,2,16.00,4,1466,189,232.00
+14,14,Michael Schar,support,CCC Team,4.3,0.00,0,80.00,1,24.00,1,24.00,4,1783,410,228.00
+15,15,Giacomo Nizzolo,sprinter,NTT Pro Cycling,8.8,0.00,0,38.00,3,0.00,0,188.00,4,3025,1868,226.00
+16,16,Greg Van Avermaet,support,CCC Team,7.5,0.00,0,0.00,0,0.00,0,224.00,4,2509,1505,224.00
+17,17,Hugo Hofstetter,support,Israel Start-Up Nation,5.6,0.00,0,0.00,0,0.00,0,216.00,4,703,380,216.00
+17,17,Michael Gogl,support,NTT Pro Cycling,4,0.00,0,52.00,1,144.00,2,20.00,4,1602,285,216.00
+19,19,Caleb Ewan,sprinter,Lotto Soudal,11.5,0.00,0,0.00,0,0.00,0,212.00,4,2209,3494,212.00
+20,20,Sergio Higuita,youth,EF Pro Cycling,7.6,0.00,0,0.00,0,0.00,0,208.00,4,2857,1137,208.00
+21,21,Guillaume Martin,captain,Cofidis -  Solutions Crédits,9.4,0.00,0,0.00,0,36.00,1,166.00,4,839,736,202.00
+22,22,Krists Neilands,support,Israel Start-Up Nation,3.9,0.00,0,40.00,1,24.00,1,28.00,4,165,98,192.00
+23,23,Cees Bol,sprinter,Team Sunweb,8.3,0.00,0,0.00,0,0.00,0,188.00,4,816,478,188.00
+24,24,Fabien Grellier,support,Team Total Direct Energie,3.5,0.00,1,60.00,1,24.00,1,20.00,4,1049,519,184.00
+25,25,Adam Yates,captain,Mitchelton - Scott,10,0.00,0,0.00,0,0.00,0,182.00,5,2617,724,182.00
+25,25,Matteo Trentin,sprinter,CCC Team,8,0.00,0,92.00,4,0.00,0,90.00,4,4090,2812,182.00
+27,27,Kasper Asgreen,youth,Deceuninck - Quick Step,6,0.00,0,44.00,1,72.00,2,24.00,4,2362,3542,180.00
+27,27,Edward Theuns,support,Trek - Segafredo,5.5,0.00,0,12.00,1,0.00,0,168.00,4,650,586,180.00
+29,29,Alexey Lutsenko,support,Astana Pro Team,6.9,0.00,0,0.00,0,0.00,0,164.00,4,1341,674,164.00
+30,30,Team Jumbo - Visma,manager,Team Jumbo - Visma,11.1,0.00,0,0.00,0,0.00,0,160.00,1,1595,3001,160.00
+30,30,Lotto Soudal,manager,Lotto Soudal,10,0.00,0,0.00,0,0.00,0,160.00,1,1626,1851,160.00
+30,30,Team Sunweb,manager,Team Sunweb,7.8,0.00,0,0.00,0,0.00,0,160.00,2,735,380,160.00
+30,30,Toms Skujins,support,Trek - Segafredo,5.2,0.00,0,60.00,1,72.00,2,28.00,4,448,216,160.00
+34,34,Bryan Coquard,sprinter,B&B Hotels - Vital Concept p/b KTM,7.5,0.00,0,50.00,4,0.00,0,108.00,4,579,490,158.00
+35,35,Bauke Mollema,climber,Trek - Segafredo,6.8,0.00,0,0.00,0,0.00,0,156.00,4,2299,887,156.00
+36,36,Quentin Pacher,support,B&B Hotels - Vital Concept p/b KTM,4.6,0.00,0,52.00,1,72.00,4,28.00,4,32,20,152.00
+37,37,Michael Mørkøv,support,Deceuninck - Quick Step,4.6,0.00,0,76.00,3,0.00,0,32.00,4,1374,986,148.00
+38,38,Nairo Quintana,captain,Team Arkéa Samsic,10.5,0.00,0,0.00,0,24.00,1,118.00,4,262,496,142.00
+39,39,Cyril Gautier,support,B&B Hotels - Vital Concept p/b KTM,3.8,0.00,0,68.00,1,24.00,2,40.00,4,573,353,132.00
+40,40,Maximilian Schachmann,support,BORA - Hansgrohe,7.5,0.00,0,0.00,0,0.00,0,116.00,4,290,452,116.00
+40,40,Anthony Turgis,support,Team Total Direct Energie,4.8,0.00,0,0.00,0,0.00,0,116.00,4,170,82,116.00
+42,42,Jasper Stuyven,support,Trek - Segafredo,7,0.00,0,0.00,0,0.00,0,112.00,4,2557,2679,112.00
+43,43,Tom Dumoulin,tempo,Team Jumbo - Visma,8.2,0.00,0,0.00,0,0.00,0,81.00,4,1105,1165,111.00
+44,44,Alberto Bettiol,support,EF Pro Cycling,6.3,0.00,0,0.00,0,0.00,0,108.00,4,424,448,108.00
+45,45,Esteban Chaves,climber,Mitchelton - Scott,7.1,0.00,0,0.00,0,0.00,0,105.00,4,413,348,105.00
+46,46,Robert Gesink,support,Team Jumbo - Visma,5,0.00,0,0.00,0,36.00,1,28.00,4,358,433,104.00
+47,47,Miguel Ángel López,captain,Astana Pro Team,9.5,0.00,0,0.00,0,6.00,1,94.00,4,474,486,100.00
+47,47,Trek - Segafredo,manager,Trek - Segafredo,7.9,0.00,0,0.00,0,0.00,0,100.00,1,499,245,100.00
+49,49,Oliver Naesen,support,AG2R La Mondiale,6.5,0.00,0,0.00,0,0.00,0,96.00,4,421,750,96.00
+50,50,Nils Politt,tempo,Israel Start-Up Nation,6.3,0.00,0,60.00,1,18.00,2,15.00,4,318,434,93.00
+51,51,Wout Van Aert,support,Team Jumbo - Visma,8.2,0.00,0,0.00,0,12.00,1,40.00,4,2496,2914,92.00
+51,51,Tiesj Benoot,support,Team Sunweb,6.8,0.00,0,60.00,1,0.00,0,32.00,4,1574,1554,92.00
+51,51,Daniel Oss,support,BORA - Hansgrohe,4.3,0.00,0,60.00,2,0.00,0,32.00,4,668,969,92.00
+54,54,Egan Bernal,captain,Team INEOS,11.5,0.00,0,0.00,0,0.00,0,88.00,4,820,1479,88.00
+54,54,Elia Viviani,sprinter,Cofidis -  Solutions Crédits,10.5,0.00,0,6.00,1,0.00,0,82.00,4,378,1122,88.00
+56,56,Niccolò Bonifazio,sprinter,Team Total Direct Energie,8.6,0.00,0,38.00,3,0.00,0,48.00,4,63,288,86.00
+57,57,Jan Polanc,support,UAE Team Emirates,5.4,0.00,0,0.00,0,0.00,0,40.00,4,50,115,80.00
+58,58,Alexis Vuillermoz,support,AG2R La Mondiale,5.5,0.00,0,44.00,1,0.00,0,32.00,4,190,336,76.00
+58,58,Vegard Stake Laengen,support,UAE Team Emirates,3.6,0.00,0,0.00,0,0.00,0,36.00,4,607,722,76.00
+60,60,Luka Mezgec,sprinter,Mitchelton - Scott,7.2,0.00,0,14.00,1,0.00,0,60.00,4,304,347,74.00
+61,61,Nicolas Roche,climber,Team Sunweb,5.8,0.00,0,0.00,0,45.00,1,27.00,4,1519,1324,72.00
+61,61,Lukas Pöstlberger,support,BORA - Hansgrohe,4.8,0.00,0,32.00,1,24.00,2,16.00,4,123,124,72.00
+61,61,Hugo Houle,support,Astana Pro Team,4,0.00,0,0.00,0,0.00,0,72.00,4,51,35,72.00
+61,61,Jonas Koch,support,CCC Team,3.6,0.00,0,0.00,0,0.00,0,72.00,4,106,112,72.00
+65,65,Thibaut Pinot,captain,Groupama - FDJ,11.3,0.00,0,0.00,0,0.00,0,68.00,4,613,1057,68.00
+65,65,Amund Grøndahl Jansen,support,Team Jumbo - Visma,4.8,0.00,0,0.00,0,0.00,0,28.00,4,398,799,68.00
+67,67,Sepp Kuss,climber,Team Jumbo - Visma,7.7,0.00,0,0.00,0,0.00,0,36.00,4,805,924,66.00
+67,67,Davide Formolo,climber,UAE Team Emirates,7.3,0.00,0,0.00,0,0.00,0,36.00,4,614,569,66.00
+67,67,Damiano Caruso,climber,Bahrain McLaren,6,0.00,0,9.00,1,0.00,0,57.00,4,572,460,66.00
+70,70,Jasper De Buyst,support,Lotto Soudal,5.4,0.00,0,0.00,0,0.00,0,24.00,4,109,202,64.00
+70,70,Dries Devenyns,support,Deceuninck - Quick Step,4.8,0.00,0,0.00,0,0.00,0,24.00,4,74,107,64.00
+70,70,Rémi Cavagna,support,Deceuninck - Quick Step,4.6,0.00,0,8.00,1,0.00,0,16.00,4,181,128,64.00
+70,70,Jack Bauer,support,Mitchelton - Scott,3.9,0.00,0,0.00,0,0.00,0,64.00,4,338,332,64.00
+70,70,Marco Marcato,support,UAE Team Emirates,3.5,0.00,0,0.00,0,0.00,0,24.00,4,175,254,64.00
+75,75,Mathieu Burgaudeau,climber,Team Total Direct Energie,4.5,0.00,0,51.00,1,0.00,0,12.00,4,2108,1394,63.00
+76,76,Mikel Landa,captain,Bahrain McLaren,9,0.00,0,0.00,0,0.00,0,60.00,4,1458,1656,60.00
+76,76,Mitchelton - Scott,manager,Mitchelton - Scott,8.7,0.00,0,0.00,0,0.00,0,60.00,1,433,363,60.00
+76,76, Cofidis -  Solutions Crédits,manager,Cofidis -  Solutions Crédits,8.5,0.00,0,0.00,0,0.00,0,60.00,1,208,339,60.00
+76,76,NTT Pro Cycling,manager,NTT Pro Cycling,8,0.00,0,0.00,0,0.00,0,60.00,1,265,263,60.00
+76,76,Fabio Aru,climber,UAE Team Emirates,7.2,0.00,0,0.00,0,0.00,0,30.00,4,284,609,60.00
+76,76,David De La Cruz,support,UAE Team Emirates,5.5,0.00,0,0.00,0,0.00,0,20.00,4,898,1106,60.00
+76,76,Roger Kluge,support,Lotto Soudal,5.2,0.00,0,0.00,0,0.00,0,20.00,4,29,97,60.00
+83,83,Steff Cras,youth,Lotto Soudal,5,0.00,0,0.00,0,0.00,0,16.00,4,593,967,56.00
+83,83,Tim Declercq,support,Deceuninck - Quick Step,4.3,0.00,0,0.00,0,0.00,0,16.00,4,217,283,56.00
+83,83,Frederik Frison,support,Lotto Soudal,4.1,0.00,0,0.00,0,0.00,0,16.00,4,149,175,56.00
+86,86,George Bennett,climber,Team Jumbo - Visma,7.8,0.00,0,0.00,0,0.00,0,24.00,4,218,585,54.00
+87,87,Alejandro Valverde,climber,Movistar Team,7.6,0.00,0,0.00,0,0.00,0,48.00,4,857,1157,48.00
+87,87,Enric Mas,youth,Movistar Team,7,0.00,0,0.00,0,0.00,0,48.00,4,582,1731,48.00
+87,87,Thomas De Gendt,tempo,Lotto Soudal,6.9,0.00,0,0.00,0,0.00,0,18.00,4,3356,1772,48.00
+87,87,Bob Jungels,tempo,Deceuninck - Quick Step,6.6,0.00,0,0.00,0,0.00,0,18.00,4,346,461,48.00
+87,87,Tony Martin,tempo,Team Jumbo - Visma,5.8,0.00,0,0.00,0,0.00,0,18.00,4,401,692,48.00
+87,87,Max Walsheid,support,NTT Pro Cycling,5.2,0.00,0,28.00,2,0.00,0,20.00,4,64,130,48.00
+87,87,Christopher Juul-Jensen,support,Mitchelton - Scott,3.4,0.00,0,24.00,1,0.00,0,24.00,4,1375,1865,48.00
+94,94,Pierre Latour,climber,AG2R La Mondiale,7.6,0.00,0,0.00,0,0.00,0,45.00,4,136,366,45.00
+95,95,Daniel Felipe Martínez,youth,EF Pro Cycling,8.2,0.00,0,0.00,0,0.00,0,44.00,4,951,1618,44.00
+95,95,Gregor Mühlberger,support,BORA - Hansgrohe,5.5,0.00,0,8.00,1,0.00,0,36.00,4,137,279,44.00
+95,95,Nicolas Edet,support,Cofidis -  Solutions Crédits,4.8,0.00,0,16.00,1,0.00,0,28.00,4,270,189,44.00
+98,98,BORA - Hansgrohe,manager,BORA - Hansgrohe,9.5,0.00,0,0.00,0,0.00,0,40.00,2,1959,2540,40.00
+98,98,Team Arkéa Samsic,manager,Team Arkéa Samsic,8.5,0.00,0,0.00,0,0.00,0,40.00,1,40,89,40.00
+98,98,Israel Start-Up Nation,manager,Israel Start-Up Nation,8,0.00,0,0.00,0,0.00,0,40.00,1,36,96,40.00
+98,98,CCC Team,manager,CCC Team,8,0.00,0,0.00,0,0.00,0,40.00,1,392,316,40.00
+98,98,Connor Swift,youth,Team Arkéa Samsic,4.5,0.00,0,0.00,0,0.00,0,40.00,4,1799,1991,40.00
+103,103,Marc Soler,climber,Movistar Team,6.4,0.00,0,0.00,0,0.00,0,39.00,4,170,249,39.00
+104,104,Clément Venturini,sprinter,AG2R La Mondiale,7,0.00,0,0.00,0,0.00,0,38.00,4,188,273,38.00
+104,104,Tom Van Asbroeck,sprinter,Israel Start-Up Nation,6.5,0.00,0,0.00,0,0.00,0,38.00,4,209,386,38.00
+106,106,Luis León Sanchez,support,Astana Pro Team,6,0.00,0,0.00,0,0.00,0,36.00,4,271,661,36.00
+106,106,Geoffrey Soupe,support,Team Total Direct Energie,4,0.00,0,16.00,1,0.00,0,20.00,4,58,77,36.00
+108,108,Richard Carapaz,climber,Team INEOS,8,0.00,0,0.00,0,0.00,0,33.00,4,397,583,33.00
+109,109,Omar Fraile,support,Astana Pro Team,5.8,0.00,0,0.00,0,0.00,0,32.00,4,198,483,32.00
+109,109,Clément Russo,support,Team Arkéa Samsic,4.8,0.00,0,0.00,0,0.00,0,32.00,4,39,48,32.00
+109,109,Neilson Powless,youth,EF Pro Cycling,4.5,0.00,0,0.00,0,0.00,0,32.00,4,314,341,32.00
+109,109,Mikaël Cherel,support,AG2R La Mondiale,3.6,0.00,0,0.00,0,0.00,0,32.00,4,102,109,32.00
+113,113,Richie Porte,captain,Trek - Segafredo,10.2,0.00,0,0.00,0,0.00,0,30.00,4,129,420,30.00
+113,113,Rigoberto Uran,captain,EF Pro Cycling,9.3,0.00,0,0.00,0,0.00,0,30.00,4,287,540,30.00
+113,113,Michal Kwiatkowski,tempo,Team INEOS,6.9,0.00,0,3.00,1,0.00,0,27.00,4,239,524,30.00
+113,113,Hugh Carthy,tempo,EF Pro Cycling,5.8,0.00,0,0.00,0,0.00,0,30.00,4,120,96,30.00
+117,117,Romain Bardet,captain,AG2R La Mondiale,9.6,0.00,0,0.00,0,0.00,0,28.00,4,751,960,28.00
+117,117,David Gaudu,youth,Groupama - FDJ,7.2,0.00,0,0.00,0,0.00,0,28.00,4,174,676,28.00
+117,117,Rudy Molard,support,Groupama - FDJ,5.8,0.00,0,0.00,0,0.00,0,28.00,4,97,382,28.00
+117,117,Valentin Madouas,youth,Groupama - FDJ,5.6,0.00,0,0.00,0,0.00,0,28.00,4,181,536,28.00
+117,117,Jens Debusschere,support,B&B Hotels - Vital Concept p/b KTM,5.5,0.00,0,0.00,0,0.00,0,28.00,4,41,152,28.00
+117,117,Simon Geschke,support,CCC Team,5.2,0.00,0,0.00,0,0.00,0,28.00,4,192,282,28.00
+117,117,Niklas Eg,youth,Trek - Segafredo,5,0.00,0,0.00,0,0.00,0,28.00,4,227,544,28.00
+117,117,Andrey Amador,support,Team INEOS,4.8,0.00,0,0.00,0,0.00,0,28.00,4,72,119,28.00
+117,117,Joris Nieuwenhuis,youth,Team Sunweb,4.8,0.00,0,0.00,0,0.00,0,28.00,4,237,546,28.00
+117,117,Marco Haller,support,Bahrain McLaren,4.6,0.00,0,0.00,0,0.00,0,28.00,4,80,123,28.00
+117,117,Diego Rosa,support,Team Arkéa Samsic,4.6,0.00,0,0.00,0,0.00,0,28.00,4,27,55,28.00
+117,117,José Joaquín Rojas,support,Movistar Team,4.3,0.00,0,0.00,0,0.00,0,28.00,4,100,110,28.00
+117,117,Dayer Quintana,support,Team Arkéa Samsic,3.5,0.00,0,0.00,0,0.00,0,28.00,4,109,169,28.00
+130,130,Warren Barguil,climber,Team Arkéa Samsic,7.8,0.00,0,0.00,0,0.00,0,27.00,4,590,1022,27.00
+130,130,Søren Kragh Andersen,tempo,Team Sunweb,6.6,0.00,0,0.00,0,0.00,0,27.00,4,197,400,27.00
+130,130,Jesús Herrada,climber,Cofidis -  Solutions Crédits,6.5,0.00,0,0.00,0,0.00,0,27.00,4,820,652,27.00
+130,130,Gorka Izagirre,climber,Astana Pro Team,6.5,0.00,0,0.00,0,0.00,0,27.00,4,173,310,27.00
+130,130,Pierre Rolland,climber,B&B Hotels - Vital Concept p/b KTM,6.2,0.00,0,0.00,0,0.00,0,27.00,4,461,595,27.00
+130,130,Nelson Oliveira,tempo,Movistar Team,5.6,0.00,0,0.00,0,0.00,0,27.00,4,182,206,27.00
+136,136,Emanuel Buchmann,captain,BORA - Hansgrohe,10,0.00,0,0.00,0,0.00,0,26.00,4,267,863,26.00
+137,137,Lennard Kamna,youth,BORA - Hansgrohe,7.5,0.00,0,0.00,0,0.00,0,24.00,4,964,1451,24.00
+137,137,Mikel Nieve,climber,Mitchelton - Scott,6.8,0.00,0,0.00,0,0.00,0,24.00,4,155,483,24.00
+137,137,Pello Bilbao,climber,Bahrain McLaren,6.5,0.00,0,0.00,0,0.00,0,24.00,4,98,260,24.00
+137,137,Felix Großschartner,climber,BORA - Hansgrohe,6,0.00,0,0.00,0,0.00,0,24.00,4,99,236,24.00
+137,137,Kenny Elissonde,climber,Trek - Segafredo,6,0.00,0,0.00,0,0.00,0,24.00,4,193,245,24.00
+137,137,Cyril Barthe,youth,B&B Hotels - Vital Concept p/b KTM,5.6,0.00,0,0.00,0,0.00,0,24.00,4,141,525,24.00
+137,137,Sébastien Reichenbach,climber,Groupama - FDJ,5.5,0.00,0,0.00,0,0.00,0,24.00,4,227,346,24.00
+137,137,Romain Sicard,climber,Team Total Direct Energie,5.4,0.00,0,0.00,0,0.00,0,24.00,4,1467,2013,24.00
+137,137,Matej Mohoric,support,Bahrain McLaren,5.3,0.00,0,0.00,0,0.00,0,24.00,4,1506,1711,24.00
+137,137,Dylan van Baarle,support,Team INEOS,4.9,0.00,0,0.00,0,0.00,0,24.00,4,95,217,24.00
+137,137,Casper Pedersen,youth,Team Sunweb,4.9,0.00,0,0.00,0,0.00,0,24.00,4,1242,2563,24.00
+137,137,Nikias Arndt,support,Team Sunweb,4.8,0.00,0,0.00,0,0.00,0,24.00,4,207,378,24.00
+137,137,Harold Tejada,youth,Astana Pro Team,4.5,0.00,0,0.00,0,0.00,0,24.00,4,348,441,24.00
+137,137,Carlos Verona,support,Movistar Team,4,0.00,0,0.00,0,0.00,0,24.00,4,52,92,24.00
+137,137,Dario Cataldo,support,Movistar Team,3.7,0.00,0,0.00,0,0.00,0,24.00,4,96,99,24.00
+137,137,Imanol Erviti,support,Movistar Team,3.6,0.00,0,0.00,0,0.00,0,24.00,4,52,105,24.00
+137,137,Kevin Ledanois,youth,Team Arkéa Samsic,3.6,0.00,0,0.00,0,0.00,0,24.00,4,1824,1374,24.00
+137,137,Pierre-Luc Périchon,support,Cofidis -  Solutions Crédits,3.6,0.00,0,0.00,0,0.00,0,24.00,4,160,216,24.00
+137,137,Matthieu Ladagnous,support,Groupama - FDJ,3.4,0.00,0,0.00,0,0.00,0,24.00,4,269,260,24.00
+156,156,Ion Izagirre,climber,Astana Pro Team,6.8,0.00,0,0.00,0,0.00,0,21.00,4,144,420,21.00
+156,156,Stefan Küng,tempo,Groupama - FDJ,6.6,0.00,0,0.00,0,0.00,0,21.00,4,160,593,21.00
+156,156,Jonathan Castroviejo,tempo,Team INEOS,6.2,0.00,0,0.00,0,0.00,0,21.00,4,84,257,21.00
+156,156,Tejay van Garderen,climber,EF Pro Cycling,6.1,0.00,0,0.00,0,0.00,0,21.00,4,282,529,21.00
+156,156,Winner Anacona,climber,Team Arkéa Samsic,5.5,0.00,0,0.00,0,0.00,0,21.00,4,143,285,21.00
+156,156,Nans Peters,climber,AG2R La Mondiale,5.4,0.00,0,0.00,0,0.00,0,21.00,4,239,461,21.00
+162,162,EF Pro Cycling,manager,EF Pro Cycling,8.5,0.00,0,0.00,0,0.00,0,20.00,1,210,218,20.00
+162,162,Daryl Impey,support,Mitchelton - Scott,7,0.00,0,0.00,0,0.00,0,20.00,4,992,1029,20.00
+162,162,Alessandro De Marchi,support,CCC Team,5.8,0.00,0,0.00,0,0.00,0,20.00,4,1910,1111,20.00
+162,162,Lilian Calmejane,support,Team Total Direct Energie,5.6,0.00,0,0.00,0,0.00,0,20.00,4,923,1078,20.00
+162,162,Jens Keukeleire,support,EF Pro Cycling,5.3,0.00,0,0.00,0,0.00,0,20.00,4,395,408,20.00
+162,162,Maxime Chevalier,youth,B&B Hotels - Vital Concept p/b KTM,4.5,0.00,0,0.00,0,0.00,0,20.00,4,1541,3196,20.00
+162,162,Kévin Reza,support,B&B Hotels - Vital Concept p/b KTM,3.6,0.00,0,0.00,0,0.00,0,20.00,4,88,122,20.00
+169,169,Domenico Pozzovivo,captain,NTT Pro Cycling,8,0.00,0,0.00,0,0.00,0,18.00,4,2802,3058,18.00
+169,169,Ben Hermans,climber,Israel Start-Up Nation,6.2,0.00,0,0.00,0,0.00,0,18.00,4,115,198,18.00
+171,171,Pavel Sivakov,youth,Team INEOS,8.2,0.00,0,0.00,0,0.00,0,16.00,4,218,921,16.00
+171,171,Christophe Laporte,sprinter,Cofidis -  Solutions Crédits,7.4,0.00,0,0.00,0,0.00,0,16.00,4,187,522,16.00
+171,171,Simone Consonni,sprinter,Cofidis -  Solutions Crédits,7.2,0.00,0,0.00,0,0.00,0,16.00,4,24,118,16.00
+171,171,Guy Niv,support,Israel Start-Up Nation,4.3,0.00,0,0.00,0,0.00,0,16.00,4,22,32,16.00
+171,171,Luke Rowe,support,Team INEOS,3.8,0.00,0,0.00,0,0.00,0,16.00,4,419,648,16.00
+171,171,William Bonnet,support,Groupama - FDJ,3.5,0.00,0,0.00,0,0.00,0,16.00,4,244,390,16.00
+177,177,Roman Kreuziger,climber,NTT Pro Cycling,6.2,0.00,0,0.00,0,0.00,0,15.00,4,186,392,15.00
+177,177,Michael Valgren,tempo,NTT Pro Cycling,5.5,0.00,0,0.00,0,0.00,0,15.00,4,788,1036,15.00
+177,177,Sam Bewley,tempo,Mitchelton - Scott,4.5,0.00,0,0.00,0,0.00,0,15.00,4,1283,943,15.00
+180,180,Ryan Gibbons,sprinter,NTT Pro Cycling,6,0.00,0,0.00,0,0.00,0,14.00,4,261,424,14.00
+181,181,Ilnur Zakarin,captain,CCC Team,8.2,0.00,0,0.00,0,0.00,0,12.00,4,1515,1647,12.00
+181,181,Wout Poels,climber,Bahrain McLaren,7.2,0.00,0,0.00,0,0.00,0,12.00,4,183,646,12.00
+181,181,Jan Hirt,climber,CCC Team,7.2,0.00,0,0.00,0,0.00,0,12.00,4,247,357,12.00
+184,184,Sonny Colbrelli,sprinter,Bahrain McLaren,9.1,0.00,0,2.00,1,0.00,0,8.00,4,330,868,10.00
+184,184,Daniel Martin,captain,Israel Start-Up Nation,8.4,0.00,0,0.00,0,0.00,0,10.00,4,2602,3894,10.00
+184,184,Edvald Boasson Hagen,sprinter,NTT Pro Cycling,6,0.00,0,0.00,0,0.00,0,10.00,4,1907,2757,10.00
+187,187,André Greipel,sprinter,Israel Start-Up Nation,7,0.00,0,0.00,0,0.00,0,8.00,4,238,799,8.00
+188,188,Philippe Gilbert,support,Lotto Soudal,7.2,0.00,0,0.00,0,0.00,0,4.00,1,342,1777,4.00
+188,188,Rafael Valls,support,Bahrain McLaren,4.8,0.00,0,0.00,0,0.00,0,4.00,1,4,34,4.00
